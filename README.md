@@ -1,1 +1,3 @@
 # Applied-Data-Science-Capstone
+
+## PROJETO COMPLETO ESTARÁ DISPONÍVEL NESTE REPOSITÓRIO ATÉ 24/01/2021.
