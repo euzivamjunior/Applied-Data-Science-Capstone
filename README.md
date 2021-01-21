@@ -1,3 +1,4 @@
+![Test Image 3](/week5%20-%20Final%20Project/Report/figures/ya_travel_agency_ver2.png)
 # Applied Data Science Capstone - IBM COURSERA
 
 ## PROJETO COMPLETO ESTARÁ DISPONÍVEL NESTE REPOSITÓRIO ATÉ 24/01/2021.
