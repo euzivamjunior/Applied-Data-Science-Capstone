@@ -16,4 +16,5 @@ suggest Hotels based on the similarity of nearby venues, to increase the likelih
 with the accommodation service provided.
 
 [Final Report - English Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Report/en%20-%20YW%20-%20Final%20Report.pdf)
+
 [Final Report - English Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Report/portuguese%20version%20-%20vers%C3%A3o%20portugu%C3%AAs/pt%20-%20YW%20-%20Final%20Report.pdf)
