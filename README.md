@@ -1,8 +1,6 @@
 ![Test Image 3](/week5%20-%20Final%20Project/Report/figures/ya_travel_agency_ver2.png)
 # Applied Data Science Capstone - IBM COURSERA
 
-## PROJETO COMPLETO ESTARÁ DISPONÍVEL NESTE REPOSITÓRIO ATÉ 24/01/2021.
-
 ## RECOMMENDING HOTELS FROM HISTORICAL ACCOMMODATION DATA – CLUSTERING APPROACH
 
 The Yellow Woodpecker (fictional company) is a Brazilian travel agency recognized for the quality of
@@ -18,3 +16,7 @@ with the accommodation service provided.
 [Final Report - English Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Report/en%20-%20YW%20-%20Final%20Report.pdf)
 
 [Final Report - Portuguese Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Report/portuguese%20version%20-%20vers%C3%A3o%20portugu%C3%AAs/pt%20-%20YW%20-%20Final%20Report.pdf)
+
+[Final Notebook - English Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Notebook/en%20-%20YW%20-%20Final%20Notebook.ipynb)
+
+[Final Notebook - Portuguese Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Notebook/pt%20-%20YW%20-%20Final%20Notebook.ipynb)
