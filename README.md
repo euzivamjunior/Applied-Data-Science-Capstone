@@ -22,3 +22,7 @@ with the accommodation service provided.
 [Final Notebook - English Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Notebook/en%20-%20YW%20-%20Final%20Notebook.ipynb)
 
 [Final Notebook - Portuguese Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Notebook/pt%20-%20YW%20-%20Final%20Notebook.ipynb)
+
+[Final Medium Story - English Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Notebook/pt%20-%20YW%20-%20Final%20Notebook.ipynb)
+
+[Final Medium Story - Portuguese Version: COMING SOON]
