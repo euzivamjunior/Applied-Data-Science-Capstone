@@ -23,6 +23,6 @@ with the accommodation service provided.
 
 [Final Notebook - Portuguese Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Notebook/pt%20-%20YW%20-%20Final%20Notebook.ipynb)
 
-[Final Medium Story - English Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Notebook/pt%20-%20YW%20-%20Final%20Notebook.ipynb)
+[Final Medium Story - English Version](https://medium.com/@euzivamjunior/recommending-hotels-from-historical-accommodation-data-clustering-approach-28d80c89df95)
 
 [Final Medium Story - Portuguese Version: COMING SOON]
