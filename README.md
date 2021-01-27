@@ -17,16 +17,16 @@ with the accommodation service provided.
 
 [Final Report - English Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Report/en%20-%20YW%20-%20Final%20Report.pdf)
 
-[Final Report - Portuguese Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Report/portuguese%20version%20-%20vers%C3%A3o%20portugu%C3%AAs/pt%20-%20YW%20-%20Final%20Report.pdf)
-
 [Final Notebook - English Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Notebook/en%20-%20YW%20-%20Final%20Notebook.ipynb)
 
-[Final Notebook - Portuguese Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Notebook/pt%20-%20YW%20-%20Final%20Notebook.ipynb)
-
 [Final Medium Story - English Version](https://medium.com/@euzivamjunior/recommending-hotels-from-historical-accommodation-data-clustering-approach-28d80c89df95)
-
-[Final Medium Story - Portuguese Version: COMING SOON]
 
 ## RECOMENDAÇÃO DE HOTÉIS COM BASE NA SIMILARIDADE DE LOCAIS PRÓXIMOS - ABORDAGEM DE CLUSTERIZAÇÃO
 
 A Yellow Woodpecker (empresa fictícia) é uma agência de viagens brasileira que já atendeu muitos clientes. Em busca de melhorar seus serviços e aumentar a taxa de retenção de seus clientes, a empresa buscou junto a seu time de Data Science uma possível estratégia para melhorar o grau de satisfação de seus clientes. Durante a análise percebeu-se que a satisfação de um mesmo cliente com relação a acomodação das viagens possuía muita variação, e que nem sempre alcançava a satisfação esperada. Diante disso o time de Data Science propôs um projeto de segmentação de todos os hotéis de acomodação de destino da viagem, e então com base na maior satisfação de acomodação de uma viagem anterior, criar um sistema para sugerir Hotéis com base na semelhança de estabelecimentos próximos, buscando assim, aumentar a probabilidade de alta satisfação do serviço de acomodação prestado.
+
+[Final Report - Portuguese Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Report/portuguese%20version%20-%20vers%C3%A3o%20portugu%C3%AAs/pt%20-%20YW%20-%20Final%20Report.pdf)
+
+[Final Notebook - Portuguese Version](https://github.com/euzivamjunior/Applied-Data-Science-Capstone/blob/main/week5%20-%20Final%20Project/Notebook/pt%20-%20YW%20-%20Final%20Notebook.ipynb)
+
+[Final Medium Story - Portuguese Version: COMING SOON]
