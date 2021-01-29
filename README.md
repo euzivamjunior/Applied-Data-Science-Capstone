@@ -1,7 +1,7 @@
 ![Test Image 3](/week5%20-%20Final%20Project/Report/figures/ya_travel_agency_ver2.png)
 # Applied Data Science Capstone - IBM COURSERA
 
-This Repository is for projects development of [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) from [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+This Repository is for project development of [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) from [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ## RECOMMENDING HOTELS FROM HISTORICAL ACCOMMODATION DATA – CLUSTERING APPROACH
 
